@@ -1,4 +1,13 @@
+![Logo H@rmonia](https://github.com/ph3n4t3s/1m1-urbanfarm/blob/master/img/Harmonia_v4.jpg?raw=true)
+![Atelier 1](https://github.com/ph3n4t3s/1m1-urbanfarm/blob/master/img/Titre.png?raw=true)
 
+## Contenu du tutoriel
+
+1. [Les variables](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/programmationmicrobit/1.variables)
+2. [Les conditions et les boucles](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/programmationmicrobit/2.conditionsboucles)
+3. [Les fonctions](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/programmationmicrobit/3.fonctions)
+
+---
 > Ouvrir cette page à [https://ph3n4t3s.github.io/programmationmicrobit/](https://ph3n4t3s.github.io/programmationmicrobit/)
 
 ## Utiliser comme extension
