@@ -13,7 +13,8 @@
         "README.md",
         "1.Variables.md",
         "2.ConditionsBoucles.md",
-        "_locales/fr-FR/1.Variables.md"
+        "_locales/fr-FR/1.Variables.md",
+        "_locales/fr-FR/README.md"
     ],
     "testFiles": [
         "test.ts"
